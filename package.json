@@ -1,0 +1,27 @@
+{
+  "name": "js-algorithm",
+  "version": "1.0.0",
+  "description": "practice of algo and Js Mastery Code Here ..",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manoj-kumar-C/Js-Algorithm.git"
+  },
+  "author": "Manojkumar C",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Manoj-kumar-C/Js-Algorithm/issues"
+  },
+  "homepage": "https://github.com/Manoj-kumar-C/Js-Algorithm#readme",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6"
+  }
+}
